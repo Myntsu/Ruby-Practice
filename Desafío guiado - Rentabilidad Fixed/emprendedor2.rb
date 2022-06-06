@@ -16,5 +16,3 @@ if utilidades > 0
 else
     puts "Tus pérdidas son de $#{utilidades.abs} pesos."
 end
-
-value = "1"
