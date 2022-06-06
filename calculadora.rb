@@ -22,3 +22,5 @@ puts " "
 puts "----------------------------------------------------"
 puts "Gracias por usar la calculadora de ruby"
 puts "----------------------------------------------------"
+
+puts "hola"
