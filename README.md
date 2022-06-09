@@ -1,2 +1,2 @@
-# ruby-sample-myn
-This is a test sample coded in Ruby.
+# Ruby
+Ruby homework, challenges and tests done throughout class.
